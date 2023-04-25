@@ -49,6 +49,11 @@ pre {
 
 a {
     color: gray;
+    transition: color 0.15s;
+}
+
+a:hover {
+    color: gainsboro;
 }
 
 footer {
